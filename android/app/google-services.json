@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171969847256",
+    "project_id": "cloudefire-a507d",
+    "storage_bucket": "cloudefire-a507d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171969847256:android:007b7210f1c17ce1fb1cad",
+        "android_client_info": {
+          "package_name": "com.example.cloudefirestore_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgSRGadRaUEmOHvtJwW6nunan1-JJOHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
